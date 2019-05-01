@@ -1,0 +1,12 @@
+Total payroll: $3,502.31
+UWECStudent = uwecId: 0, name: One Joe, title: Freshman, credits: 0, gpa: 0.0
+UWECStudent = uwecId: 1, name: Joe Student, title: Freshman, credits: 0, gpa: 0.0
+UWECStudent = uwecId: 1, name: Joe Student, title: Sophomore, credits: 24, gpa: 3.9
+UWECStaff = uwecId: 0, name: Three Joe, title: Staff, hourly pay: 0.0, hours/week: 0.0
+UWECStaff = uwecId: 3, name: Joe Staff, title: Custodian, hourly pay: 0.0, hours/week: 0.0
+UWECStaff = uwecId: 3, name: Joe Staff, title: Custodian, hourly pay: 13.5, hours/week: 0.0
+UWECStaff = uwecId: 3, name: Joe Staff, title: Custodian, hourly pay: 13.5, hours/week: 30.0
+UWECFaculty = uwecId: 0, name: Five Joe, title: Adjunct Professor, credits: 0, yearlySalary: 0.0
+UWECFaculty = uwecId: 5, name: Joe Faculty, title: Adjunct Professor, credits: 0, yearlySalary: 0.0
+UWECFaculty = uwecId: 5, name: Joe Faculty, title: Associate Professor, credits: 239, yearlySalary: 0.0
+UWECFaculty = uwecId: 5, name: Joe Faculty, title: Associate Professor, credits: 239, yearlySalary: 70000.0

@@ -1,0 +1,15 @@
+1
+1 Joe Student 24 3.9
+1
+2 Jane Student 23 4.0
+2
+3 Joe Staff Custodian 13.5 30
+2
+4 Jane Staff Secretary 12 35
+3
+5 Joe Faculty 239 70000
+3
+6 Jane Faculty 240 80000
+4
+5
+6

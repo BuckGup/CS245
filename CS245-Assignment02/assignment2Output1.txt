@@ -1,0 +1,7 @@
+Total payroll: $7,419.23
+UWECStudent = uwecId: 1, name: Joe Student, title: Sophomore, credits: 24, gpa: 3.9
+UWECStudent = uwecId: 2, name: Jane Student, title: Freshman, credits: 23, gpa: 4.0
+UWECStaff = uwecId: 3, name: Joe Staff, title: Custodian, hourly pay: 13.5, hours/week: 30.0
+UWECStaff = uwecId: 4, name: Jane Staff, title: Secretary, hourly pay: 12.0, hours/week: 35.0
+UWECFaculty = uwecId: 5, name: Joe Faculty, title: Associate Professor, credits: 239, yearlySalary: 70000.0
+UWECFaculty = uwecId: 6, name: Jane Faculty, title: Professor, credits: 240, yearlySalary: 80000.0
